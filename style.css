@@ -74,6 +74,6 @@ button:after {
 @media (max-width: 575px) {
     button {
         height: 80px;
-        width: 300px;
+        width: 260px;
     }
 }
