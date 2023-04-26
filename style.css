@@ -70,3 +70,10 @@ button:after {
     transform-origin: bottom;
     mix-blend-mode: multiply;
 }
+
+@media (max-width: 575px) {
+    button {
+        height: 80px;
+        width: 300px;
+    }
+}
